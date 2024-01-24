@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>creatYourAccountButton</name>
+   <tag></tag>
+   <elementGuidId>c31ccc27-ca15-45cc-a5de-fa40346b7f90</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[1]/following::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span._38oWvQ</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b46d621e-6a50-402f-a570-4449195692f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_38oWvQ</value>
+      <webElementGuid>fa526749-34d5-457b-8152-b26aae7e7005</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create your account</value>
+      <webElementGuid>3d58c91c-d7d9-4ebd-b95a-571522d78ec6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;theme light&quot;]/div[@class=&quot;NqU4Yg&quot;]/div[@class=&quot;NqU4Yg&quot;]/div[@class=&quot;_9HetvA&quot;]/div[@class=&quot;theme light&quot;]/div[@class=&quot;MxhaIQ R4vkCQ _5aUrJg bWfdlA&quot;]/div[@class=&quot;IywfPg _5aUrJg&quot;]/div[@class=&quot;EYTKnA p6gJdA&quot;]/div[@class=&quot;HmLo5g&quot;]/div[@class=&quot;JFEjrQ Z2VWzw&quot;]/div[1]/div[1]/div[@class=&quot;_JrOww _1pVD2w j1Zvgw&quot;]/div[@class=&quot;f_S0rw XDn20w&quot;]/div[@class=&quot;aenbSw&quot;]/div[@class=&quot;epgNPA DiwaPA&quot;]/div[@class=&quot;KhPLRA _5aI0pg axqc0g zdRd5w&quot;]/div[@class=&quot;T3uz5Q&quot;]/div[@class=&quot;W58Tpg&quot;]/div[@class=&quot;_7e4wJw&quot;]/form[@class=&quot;mZlcXA&quot;]/button[@class=&quot;_1QoxDw Qkd66A tYI0Vw o4TrkA zKTE_w Qkd66A tYI0Vw lsXp_w ubW6qw cwOZMg zQlusQ uRvRjQ _6TrfRQ&quot;]/span[@class=&quot;_38oWvQ&quot;]</value>
+      <webElementGuid>3ccb890a-ae49-4dc1-8c12-c520e096626a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[1]/following::span[1]</value>
+      <webElementGuid>858a65d2-b1b7-471f-be68-f26809f289ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create your account'])[1]/following::span[2]</value>
+      <webElementGuid>067f1fc2-36f2-401d-b924-7fe72f4febfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip to main content'])[1]/preceding::span[3]</value>
+      <webElementGuid>b421b1a1-2b6f-4539-97a2-c6f22b9d91f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Canva home'])[1]/preceding::span[6]</value>
+      <webElementGuid>1d1f347f-863d-4a46-9f0c-c6cc9e238692</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>d08d81ad-f2c6-46c1-ab3e-d954c64a91a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Create your account' or . = 'Create your account')]</value>
+      <webElementGuid>1f868cb9-1cf6-4f2a-a6bc-862cd1c00833</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

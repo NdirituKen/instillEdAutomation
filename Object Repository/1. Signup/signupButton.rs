@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>signupButton</name>
+   <tag></tag>
+   <elementGuidId>caa035b7-7e5d-4996-95bc-1fbcef43c38e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[4]/div/div[2]/div/header/div[6]/button[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button._1QoxDw.Qkd66A.tYI0Vw.o4TrkA.zKTE_w.Qkd66A.tYI0Vw.lsXp_w.cwOZMg.zQlusQ.uRvRjQ > span._38oWvQ</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3c9b3445-1969-4327-bfb3-fd9de827311c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_38oWvQ</value>
+      <webElementGuid>fe083aa7-78af-4b09-9fef-926affa0ff12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign up</value>
+      <webElementGuid>d9407b8d-e820-495a-a5e6-6a5e82080a9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;o9Kseg yIDCqA&quot;]/div[@class=&quot;M6yXdA hkW4sQ&quot;]/div[@class=&quot;_2pukyg&quot;]/div[@class=&quot;IMy50w a6f7yQ&quot;]/div[@class=&quot;theme light&quot;]/header[@class=&quot;_VxbfQ _0ukAdA&quot;]/div[@class=&quot;PYoGFg DwB3TQ&quot;]/button[@class=&quot;_1QoxDw Qkd66A tYI0Vw o4TrkA zKTE_w Qkd66A tYI0Vw lsXp_w cwOZMg zQlusQ uRvRjQ&quot;]/span[@class=&quot;_38oWvQ&quot;]</value>
+      <webElementGuid>b01ebc94-21ff-49fb-94c9-1593f6e1215a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[4]/div/div[2]/div/header/div[6]/button[2]/span</value>
+      <webElementGuid>3f6c7fa4-d4a5-4d5b-89ba-b6b09e318d45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log in'])[1]/following::span[1]</value>
+      <webElementGuid>7bce6fd6-cb8d-4ad8-9a6a-8a13293540ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Try presentation, Instagram post, anything!'])[1]/following::span[4]</value>
+      <webElementGuid>3550064d-6336-441b-900a-c315a296cf4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log in'])[2]/preceding::span[1]</value>
+      <webElementGuid>654f3822-7f58-4678-9b6b-819f4c31f071</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sign up']/parent::*</value>
+      <webElementGuid>1ac44e6d-e7e8-4cb7-bbe0-a0455399d314</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span</value>
+      <webElementGuid>bdfce84f-dd6d-4ee6-a43e-e771c54bd5ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Sign up' or . = 'Sign up')]</value>
+      <webElementGuid>7ca09608-4a45-44a7-83bd-52bbde1cf01e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

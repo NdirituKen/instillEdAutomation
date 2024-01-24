@@ -1,0 +1,26 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Login,Chrome 120.0.0.0,,,2024-01-24 13:03:19,2024-01-24 13:06:29,3m - 9.430s,FAILED
+,,,,,,,
+Test Cases/1. Signup/1. Load the application URL onto the browser,Chrome 120.0.0.0,,,2024-01-24 13:03:20,2024-01-24 13:04:39,1m - 19.475s,PASSED
+"openBrowser(""https://www.canva.com/en_gb/"")",Chrome 120.0.0.0,,,2024-01-24 13:03:20,2024-01-24 13:04:32,1m - 11.762s,PASSED
+maximizeWindow(),Chrome 120.0.0.0,,,2024-01-24 13:04:32,2024-01-24 13:04:36,4.174s,PASSED
+"waitForElementVisible(findTestObject(""1. Signup/signupButton""), 0)",Chrome 120.0.0.0,,,2024-01-24 13:04:36,2024-01-24 13:04:39,3.006s,PASSED
+,,,,,,,
+Test Cases/1. Signup/2. Click on the signup button,Chrome 120.0.0.0,,,2024-01-24 13:04:39,2024-01-24 13:04:47,7.948s,PASSED
+"click(findTestObject(""1. Signup/signupButton""))",Chrome 120.0.0.0,,,2024-01-24 13:04:40,2024-01-24 13:04:47,7.187s,PASSED
+,,,,,,,
+Test Cases/1. Signup/3. Click on Continue with Email,Chrome 120.0.0.0,,,2024-01-24 13:04:47,2024-01-24 13:05:09,22.052s,PASSED
+"click(findTestObject(""1. Signup/continueWithEmailOption""))",Chrome 120.0.0.0,,,2024-01-24 13:04:48,2024-01-24 13:05:00,11.347s,PASSED
+"waitForElementVisible(findTestObject(""1. Signup/inputEmail""), 0)",Chrome 120.0.0.0,,,2024-01-24 13:05:00,2024-01-24 13:05:09,9.725s,PASSED
+,,,,,,,
+Test Cases/1. Signup/4. Enter email,Chrome 120.0.0.0,,,2024-01-24 13:05:09,2024-01-24 13:05:37,27.680s,PASSED
+"setText(findTestObject(""1. Signup/inputEmail""), ""User1testing@ed.com"")",Chrome 120.0.0.0,,,2024-01-24 13:05:11,2024-01-24 13:05:37,26.410s,PASSED
+,,,,,,,
+Test Cases/1. Signup/5. Click on continue,Chrome 120.0.0.0,,,2024-01-24 13:05:37,2024-01-24 13:05:45,7.662s,PASSED
+"click(findTestObject(""1. Signup/continueButton""))",Chrome 120.0.0.0,,,2024-01-24 13:05:38,2024-01-24 13:05:45,6.422s,PASSED
+,,,,,,,
+Test Cases/1. Signup/6. Enter your full name,Chrome 120.0.0.0,,,2024-01-24 13:05:45,2024-01-24 13:06:26,41.208s,FAILED
+"click(findTestObject(""1. Signup/enterName""))",Chrome 120.0.0.0,,,2024-01-24 13:05:47,2024-01-24 13:06:26,39.359s,FAILED
+,,,,,,,
+Test Cases/1. Signup/7. Click on the create your account button,Chrome 120.0.0.0,,,2024-01-24 13:06:26,2024-01-24 13:06:29,2.364s,PASSED
+return null,Chrome 120.0.0.0,,,2024-01-24 13:06:29,2024-01-24 13:06:29,0.003s,PASSED

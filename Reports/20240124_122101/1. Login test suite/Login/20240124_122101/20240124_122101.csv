@@ -1,0 +1,23 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Login,,,,2024-01-24 12:21:32,2024-01-24 12:22:54,1m - 21.821s,FAILED
+,,,,,,,
+Test Cases/1. Signup/1. Load the application URL onto the browser,,,,2024-01-24 12:21:32,2024-01-24 12:22:43,1m - 10.633s,FAILED
+"openBrowser(""https://www.canva.com/en_gb/"")",,,,2024-01-24 12:21:33,2024-01-24 12:22:43,1m - 10.057s,FAILED
+,,,,,,,
+Test Cases/1. Signup/2. Click on the signup button,,,,2024-01-24 12:22:43,2024-01-24 12:22:46,2.562s,FAILED
+"click(findTestObject(""1. Signup/signupButton""))",,,,2024-01-24 12:22:44,2024-01-24 12:22:46,1.692s,FAILED
+,,,,,,,
+Test Cases/1. Signup/3. Click on Continue with Email,,,,2024-01-24 12:22:46,2024-01-24 12:22:49,3.566s,FAILED
+"click(findTestObject(""1. Signup/continueWithEmailOption""))",,,,2024-01-24 12:22:47,2024-01-24 12:22:49,2.056s,FAILED
+,,,,,,,
+Test Cases/1. Signup/4. Enter email,,,,2024-01-24 12:22:50,2024-01-24 12:22:50,0.716s,FAILED
+"click(findTestObject(""1. Signup/inputEmail""))",,,,2024-01-24 12:22:50,2024-01-24 12:22:50,0.191s,FAILED
+,,,,,,,
+Test Cases/1. Signup/5. Click on continue,,,,2024-01-24 12:22:50,2024-01-24 12:22:52,1.703s,FAILED
+"click(findTestObject(""1. Signup/continueButton""))",,,,2024-01-24 12:22:51,2024-01-24 12:22:52,0.653s,FAILED
+,,,,,,,
+Test Cases/1. Signup/6. Enter your full name,,,,2024-01-24 12:22:52,2024-01-24 12:22:53,0.948s,FAILED
+"click(findTestObject(""1. Signup/enterName""))",,,,2024-01-24 12:22:53,2024-01-24 12:22:53,0.452s,FAILED
+,,,,,,,
+Test Cases/1. Signup/7. Click on the create your account button,,,,2024-01-24 12:22:53,2024-01-24 12:22:54,0.412s,PASSED
+return null,,,,2024-01-24 12:22:54,2024-01-24 12:22:54,0.008s,PASSED

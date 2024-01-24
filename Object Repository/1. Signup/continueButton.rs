@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>continueButton</name>
+   <tag></tag>
+   <elementGuidId>b875ca2f-efea-4c49-8393-8de79ea50a8f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Email (personal or work)'])[1]/following::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span._38oWvQ</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c6fbb832-ab62-469b-87e1-f86d06bf0b4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_38oWvQ</value>
+      <webElementGuid>40541744-992c-4834-b1ac-048416b97eda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Continue</value>
+      <webElementGuid>0d30ab5b-bb9c-43a4-b331-bb9fa4e4543c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;theme light&quot;]/div[@class=&quot;NqU4Yg&quot;]/div[@class=&quot;NqU4Yg&quot;]/div[@class=&quot;_9HetvA&quot;]/div[@class=&quot;theme light&quot;]/div[@class=&quot;MxhaIQ R4vkCQ _5aUrJg bWfdlA&quot;]/div[@class=&quot;IywfPg _5aUrJg&quot;]/div[@class=&quot;EYTKnA p6gJdA&quot;]/div[@class=&quot;HmLo5g&quot;]/div[@class=&quot;JFEjrQ Z2VWzw&quot;]/div[1]/div[1]/div[@class=&quot;_JrOww _1pVD2w j1Zvgw&quot;]/div[@class=&quot;f_S0rw XDn20w&quot;]/div[@class=&quot;aenbSw&quot;]/div[@class=&quot;epgNPA DiwaPA&quot;]/div[@class=&quot;KhPLRA _5aI0pg axqc0g zdRd5w&quot;]/div[@class=&quot;T3uz5Q&quot;]/div[@class=&quot;Ncq58w&quot;]/div[@class=&quot;K33kDA&quot;]/form[@class=&quot;_7k6frg&quot;]/div[2]/button[@class=&quot;_1QoxDw Qkd66A tYI0Vw o4TrkA zKTE_w Qkd66A tYI0Vw lsXp_w ubW6qw cwOZMg zQlusQ uRvRjQ JCJw1g&quot;]/span[@class=&quot;_38oWvQ&quot;]</value>
+      <webElementGuid>b7baa897-e475-4e44-bbcc-ae098787d07c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email (personal or work)'])[1]/following::span[1]</value>
+      <webElementGuid>b44d708e-3221-43c8-bad7-f25533dea4b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue with email'])[1]/following::span[2]</value>
+      <webElementGuid>46ba638f-7eee-4afd-81c4-56101df54f33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip to main content'])[1]/preceding::span[3]</value>
+      <webElementGuid>bab27278-82a4-47f7-9bd7-8c0f6c499e2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Canva home'])[1]/preceding::span[6]</value>
+      <webElementGuid>b5ef1142-11f4-44f6-9ac2-08be6559c4ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Continue']/parent::*</value>
+      <webElementGuid>9d7a0895-a0ad-4174-a68c-c8cc6a96b860</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>0a97fd3a-2c5e-4415-937c-c08589b15be0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Continue' or . = 'Continue')]</value>
+      <webElementGuid>90aed56c-bd6e-43ad-a523-1402792ca9f9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
